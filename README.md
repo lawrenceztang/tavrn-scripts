@@ -1,69 +1,39 @@
-# Law Firm Intake Transcription Generator with OpenAI
+# Law Firm Intake Transcription Generator
 
-This script generates realistic transcriptions for law firm intake calls using OpenAI's GPT models, with half being cases that should be accepted and half that should be declined.
+This script uses OpenAI to generate realistic law firm intake call transcriptions—half are cases that should be **accepted**, half **declined**.
 
 ## Features
 
-- **AI-Powered Generation**: Uses OpenAI's o3 to create unique, realistic transcriptions
-- **Template-Based**: Built on proven accept/decline templates that ensure quality and consistency
-- **Realistic Conversations**: AI-generated transcriptions follow natural conversation patterns between intake staff and prospective clients
-- **Balanced Dataset**: Produces equal numbers of cases that should be accepted vs. declined
-- **Multiple Case Types**: Covers various practice areas including:
+- **AI-Generated Dialogues**: Natural conversations between intake staff and prospective clients.
+- **Case Diversity**: Covers a range of personal injury types:
   - Car accidents
-  - Slip and fall incidents
+  - Slip and fall
   - Medical malpractice
-  - Workers' compensation
+  - Workers’ comp
   - Product liability
   - Wrongful death
   - Premises liability
-  - Dog bite cases
+  - Dog bites
   - Motorcycle accidents
+- **Structured Output**: Saves `.txt` files under:
+  - `transcriptions/accept/`
+  - `transcriptions/decline/`
 
 ## Setup
 
 ### 1. Install Dependencies
-
-```bash
+```
 pip install -r requirements.txt
 ```
 
-**Note**: If you don't have OpenAI installed, the script will automatically use fallback templates.
-
 ### 2. Set OpenAI API Key
-
-For AI-powered generation, you'll need an OpenAI API key from [OpenAI's website](https://platform.openai.com/api-keys).
-
-Set your API key as an environment variable:
-
-```bash
-export OPENAI_API_KEY='your-api-key-here'
+Get your key from OpenAI and set it:
 ```
-
-Or on Windows:
-```cmd
-set OPENAI_API_KEY=your-api-key-here
+export OPENAI_API_KEY='your-api-key-here'  # macOS/Linux
+set OPENAI_API_KEY=your-api-key-here       # Windows
 ```
-
 ## Usage
-
-### Generate Full Dataset
-
-Run the script to generate 20 transcriptions (10 accept, 10 decline):
-
-```bash
+To generate 20 transcriptions (10 accepted, 10 declined):
+```
 python3 create_transcriptions.py
 ```
-
-The script will:
-1. Use AI to generate unique transcriptions
-2. Create individual `.txt` files organized in separate folders:
-   - `transcriptions/accept/01_car_accident.txt`
-   - `transcriptions/decline/02_slip_and_fall.txt`
-
-### Base Templates
-
-The script uses two proven base templates:
-
-**Accept Template**: Features a recent incident with clear fault, witnesses, police report, significant injuries, medical documentation, and insurance company issues.
-
-**Decline Template**: Features an older incident where the client admits fault, has minimal documentation, delayed medical treatment, and other factors that make the case unviable.
