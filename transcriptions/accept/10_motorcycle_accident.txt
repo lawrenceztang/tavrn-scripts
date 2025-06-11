@@ -1,0 +1,31 @@
+Speaker 0: Good afternoon. Thank you for calling Mira Law Firm. This is Sally. May I have your full name, please?  
+Speaker 1: Hi, my name is Maria Brown.  
+Speaker 0: Thank you, Ms. Brown. What's the best phone number to reach you?  
+Speaker 1: It's (415) 555-8933.  
+Speaker 0: And an email address?  
+Speaker 1: maria.brown@hotmail.com.  
+Speaker 0: Great. For verification, could you give me your date of birth?  
+Speaker 1: February 2nd, 1990.  
+Speaker 0: Thanks. Now, can you briefly describe what happened that led to your injury?  
+Speaker 1: Sure. On May 26, 2025, I was riding my motorcycle southbound on 8th Street near Folsom in San Francisco. A white Toyota Camry suddenly merged into my lane without signaling and clipped my front wheel. I lost control and went down.  
+Speaker 0: I'm sorry to hear that. What injuries did you sustain?  
+Speaker 1: I fractured my left tibia, got a mild concussion, and had a lot of road rash on my arms and shoulder.  
+Speaker 0: Did you receive medical treatment?  
+Speaker 1: Yes. An ambulance took me to Zuckerberg San Francisco General Hospital. They operated on my leg that night and kept me for three days. I’m now seeing Dr. Kevin Lee, an orthopedist, and doing physical therapy twice a week.  
+Speaker 0: Understood. Are you still treating?  
+Speaker 1: Yes, and they expect another two months of PT.  
+Speaker 0: Do you have health insurance?  
+Speaker 1: I do—Kaiser Permanente, member ID KP-4478-22.  
+Speaker 0: And did you miss any work because of the incident?  
+Speaker 1: Yes, I was out for three weeks and just started working half-days.  
+Speaker 0: What is your employer's name and your position?  
+Speaker 1: I’m a graphic designer at PixelBurst Studio.  
+Speaker 0: On a scale of one to 10, what's your pain level today?  
+Speaker 1: About a six, mostly in my leg when I walk.  
+Speaker 0: Got it. We're almost done. May I get the exact location of the accident if you have it?  
+Speaker 1: It happened right at the intersection of 8th Street and Folsom Street, San Francisco, California 94103.  
+Speaker 0: Perfect. We'll review your case right away. The next step is to send you a HIPAA release and contingency fee agreement for electronic signature so we can obtain your records and move forward. Does that sound okay?  
+Speaker 1: Yes, that works for me.  
+Speaker 0: Great. You'll receive an email with further instructions within the next few minutes. If you have any questions, reply to those messages or call me at the number on your caller ID. Anything else I can help with today?  
+Speaker 1: No, that’s everything. Thank you so much for your help.  
+Speaker 0: You're welcome, Ms. Brown. Take care, and we'll be in touch soon.

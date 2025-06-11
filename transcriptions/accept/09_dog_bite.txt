@@ -1,0 +1,31 @@
+Speaker 0: Good afternoon. Thank you for calling Mira Law Firm. This is Sally. May I have your full name, please?  
+Speaker 1: Hi. My name is Christopher Miller.  
+Speaker 0: Thank you, Mr. Miller. What's the best phone number to reach you?  
+Speaker 1: It's (415) 555-4033.  
+Speaker 0: And an email address?  
+Speaker 1: christopher.miller@gmail.com.  
+Speaker 0: Great. For verification, could you give me your date of birth?  
+Speaker 1: August 22nd, 1990.  
+Speaker 0: Thanks. Now, can you briefly describe what happened that led to your injury?  
+Speaker 1: Sure. On June 3rd, 2025, I was jogging on the JFK Drive path in Golden Gate Park when an off-leash German Shepherd ran up and bit my left calf. The owner didn’t have the dog on a leash even though the signs say dogs must be leashed.  
+Speaker 0: I'm sorry that happened. What injuries did you sustain?  
+Speaker 1: I had two deep puncture wounds and a tear that needed fifteen stitches. I also had to get a tetanus booster and the first round of rabies shots. My leg is still swollen and I have numbness around the ankle.  
+Speaker 0: Did you receive medical treatment?  
+Speaker 1: Yes. Park medics bandaged me at the scene, and then I went to UCSF Medical Center that afternoon. They did the stitches and referred me to Dr. Alan Chen, an orthopedic specialist.  
+Speaker 0: Understood. Are you still treating?  
+Speaker 1: Yes, I have a follow-up with Dr. Chen next week, and he recommended physical therapy for at least a month.  
+Speaker 0: Do you have health insurance?  
+Speaker 1: I do. Blue Shield HMO, policy number BS-4418-72.  
+Speaker 0: And did you miss any work because of the incident?  
+Speaker 1: I missed ten days and had to use up my PTO.  
+Speaker 0: What is your employer's name and your position?  
+Speaker 1: I'm a marketing analyst at TechCore Solutions.  
+Speaker 0: On a scale of one to ten, what's your pain level today?  
+Speaker 1: About a four, but it spikes to seven if I stand too long.  
+Speaker 0: Got it. Do you happen to have the dog owner's name and address?  
+Speaker 1: Yes. Her name is Lisa Hernandez. She gave me her card—she lives at 678 9th Avenue, San Francisco, 94118.  
+Speaker 0: Perfect. We'll review your case right away. The next step is to send you a HIPAA release and contingency fee agreement for electronic signature so we can obtain your records and move forward. Does that sound okay?  
+Speaker 1: Yes, that works for me.  
+Speaker 0: Great. You'll receive an email with further instructions within the next few minutes. If you have any questions, reply to those messages or call me at the number in your caller ID. Anything else I can help with today?  
+Speaker 1: No, that's everything. Thank you for your help.  
+Speaker 0: You're welcome, Mr. Miller. Take care, and we'll be in touch soon.
