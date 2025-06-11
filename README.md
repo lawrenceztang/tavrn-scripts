@@ -2,17 +2,12 @@
 
 This script generates realistic transcriptions for law firm intake calls using OpenAI's GPT models, with half being cases that should be accepted and half that should be declined.
 
-## Overview
-
-Law firms need to capture critical information through call transcription, send engagement letters for signature, and determine whether a matter is worth pursuing. This tool uses OpenAI's API to generate highly realistic and varied training data based on proven templates.
-
 ## Features
 
 - **AI-Powered Generation**: Uses OpenAI's o3 to create unique, realistic transcriptions
 - **Template-Based**: Built on proven accept/decline templates that ensure quality and consistency
 - **Realistic Conversations**: AI-generated transcriptions follow natural conversation patterns between intake staff and prospective clients
 - **Balanced Dataset**: Produces equal numbers of cases that should be accepted vs. declined
-- **Graceful Fallback**: If OpenAI API is unavailable, automatically falls back to template-based generation
 - **Multiple Case Types**: Covers various practice areas including:
   - Car accidents
   - Slip and fall incidents
@@ -34,7 +29,7 @@ pip install -r requirements.txt
 
 **Note**: If you don't have OpenAI installed, the script will automatically use fallback templates.
 
-### 2. Set OpenAI API Key (Optional)
+### 2. Set OpenAI API Key
 
 For AI-powered generation, you'll need an OpenAI API key from [OpenAI's website](https://platform.openai.com/api-keys).
 
@@ -64,8 +59,6 @@ The script will:
 2. Create individual `.txt` files organized in separate folders:
    - `transcriptions/accept/01_car_accident.txt`
    - `transcriptions/decline/02_slip_and_fall.txt`
-
-## How It Works
 
 ### Base Templates
 
