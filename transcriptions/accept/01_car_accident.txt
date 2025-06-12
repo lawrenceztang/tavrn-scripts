@@ -1,0 +1,61 @@
+Speaker 0: Good afternoon. Thank you for calling Mira Law Firm. This is Sally. May I have your full name, please?
+
+Speaker 1: Hi. My name is Jessica Miller.
+
+Speaker 0: Thank you, Ms. Miller. What's the best phone number to reach you?
+
+Speaker 1: Sure. It's (650) 555-6145.
+
+Speaker 0: And an email address?
+
+Speaker 1: jessica.miller@gmail.com.
+
+Speaker 0: Great. For verification, could you give me your date of birth?
+
+Speaker 1: April 22nd, 1990.
+
+Speaker 0: Thanks. Now, can you briefly describe what happened that led to your injury?
+
+Speaker 1: On May 10th, 2025, I was driving on Highway 101 when another car ran a red light and hit me on the driver's side. The impact was quite severe.
+
+Speaker 0: I'm sorry to hear that. What injuries did you sustain?
+
+Speaker 1: I suffered a concussion and a fractured collarbone. I've also been experiencing neck pain since the accident.
+
+Speaker 0: Did you receive medical treatment?
+
+Speaker 1: Yes. I was taken to Stanford Hospital right after the accident. They did a CT scan and X-rays, and I've been seeing Dr. Alan Chen for follow-up care.
+
+Speaker 0: Understood. Are you still treating?
+
+Speaker 1: Yes, I'm currently undergoing physical therapy twice a week.
+
+Speaker 0: Do you have health insurance?
+
+Speaker 1: I do. It's with Kaiser Permanente, policy number KP-1234-5678.
+
+Speaker 0: And did you miss any work because of the incident?
+
+Speaker 1: Yes, I missed about two weeks and had to use my vacation days.
+
+Speaker 0: What is your employer's name and your position?
+
+Speaker 1: I'm a marketing coordinator at Tech Innovations Inc.
+
+Speaker 0: Thanks. On a scale of one to 10, what's your pain level today?
+
+Speaker 1: I'd say it's around a six.
+
+Speaker 0: Got it. We're almost done. May I get the location of the accident if you have it?
+
+Speaker 1: It was at the intersection of Highway 101 and Marsh Road in Menlo Park, California.
+
+Speaker 0: Perfect. We'll review your case right away. The next step is to send you a HIPAA release and contingency fee agreement for electronic signature so we can obtain your records and move forward. Does that sound okay?
+
+Speaker 1: Yes, that's fine.
+
+Speaker 0: Great. You'll receive an email with further instructions within the next few minutes. If you have any questions, reply to those messages or call me at the number in your caller ID. Anything else I can help with today?
+
+Speaker 1: No, that covers it. Thank you for your help.
+
+Speaker 0: You're welcome, Ms. Miller. Take care, and we'll be in touch soon.

@@ -1,0 +1,61 @@
+Speaker 0: Good afternoon. Thank you for calling Mira Law Firm. This is Sally. May I have your full name, please?
+
+Speaker 1: Hi. My name is David Wilson.
+
+Speaker 0: Thank you, Mr. Wilson. What's the best phone number to reach you?
+
+Speaker 1: Sure. It's (209) 555-4016.
+
+Speaker 0: And an email address?
+
+Speaker 1: david.wilson@gmail.com.
+
+Speaker 0: Great. For verification, could you give me your date of birth?
+
+Speaker 1: April 10th, 1980.
+
+Speaker 0: Thanks. Now, can you briefly describe what happened that led to your injury?
+
+Speaker 1: On May 21st, 2025, I tripped over a loose floorboard at the entrance of a restaurant called The Rustic Table. There were no signs or warnings about the hazard.
+
+Speaker 0: I'm sorry to hear that. What injuries did you sustain?
+
+Speaker 1: I injured my left knee and sprained my wrist when I tried to catch myself.
+
+Speaker 0: Did you receive medical treatment?
+
+Speaker 1: Yes. I went to Mercy General Hospital later that day. They did an MRI and referred me to Dr. Alan Chen, an orthopedic specialist.
+
+Speaker 0: Understood. Are you still treating?
+
+Speaker 1: Yes. I've had two follow-up appointments and I'm scheduled for physical therapy next week.
+
+Speaker 0: Do you have health insurance?
+
+Speaker 1: I do. It's with United Healthcare, policy number UH-1234-5678.
+
+Speaker 0: And did you miss any work because of the incident?
+
+Speaker 1: Yes, I missed a week and had to use my vacation days.
+
+Speaker 0: What is your employer's name and your position?
+
+Speaker 1: I'm a software engineer at Tech Innovations Inc.
+
+Speaker 0: Thanks. On a scale of one to 10, what's your pain level today?
+
+Speaker 1: I'd say it's about a six.
+
+Speaker 0: Got it. We're almost done. May I get the restaurant's address if you have it?
+
+Speaker 1: It's 5678 Elm Street, Sacramento, California 95814.
+
+Speaker 0: Perfect. We'll review your case right away. The next step is to send you a HIPAA release and contingency fee agreement for electronic signature so we can obtain your records and move forward. Does that sound okay?
+
+Speaker 1: Yes, that's fine.
+
+Speaker 0: Great. You'll receive an email with further instructions within the next few minutes. If you have any questions, reply to those messages or call me at the number in your caller ID. Anything else I can help with today?
+
+Speaker 1: No, that covers it. Thank you for your help.
+
+Speaker 0: You're welcome, Mr. Wilson. Take care, and we'll be in touch soon.

@@ -4,7 +4,7 @@ Speaker 1: Hi. My name is Daniel Wilson.
 
 Speaker 0: Thank you, Mr. Wilson. What's the best phone number to reach you?
 
-Speaker 1: It's (415) 555-7808.
+Speaker 1: Sure. It's (415) 555-3030.
 
 Speaker 0: And an email address?
 
@@ -12,50 +12,50 @@ Speaker 1: daniel.wilson@gmail.com.
 
 Speaker 0: Great. For verification, could you give me your date of birth?
 
-Speaker 1: January 22nd, 1990.
+Speaker 1: April 22nd, 1980.
 
 Speaker 0: Thanks. Now, can you briefly describe what happened that led to your injury?
 
-Speaker 1: On May 9th, 2025, I slipped on a freshly mopped marble floor in the lobby of the Pacific Plaza Hotel on Market Street. There were no wet-floor signs posted.
+Speaker 1: On May 14th, 2025, I slipped on a wet floor at the entrance of the Downtown Mall. There were no caution signs or anything to warn me.
 
 Speaker 0: I'm sorry to hear that. What injuries did you sustain?
 
-Speaker 1: I twisted my left ankle badly and sprained my right wrist trying to catch myself.
+Speaker 1: I injured my left knee and sprained my wrist trying to break the fall.
 
 Speaker 0: Did you receive medical treatment?
 
-Speaker 1: Yes. EMTs at the hotel took me to UCSF Medical Center that evening. They did X-rays and put me in an ankle brace and wrist splint. I was referred to Dr. Karen Patel for follow-up and physical therapy.
+Speaker 1: Yes. I went to the ER at General Hospital that evening. They did some X-rays and referred me to an orthopedic specialist.
 
 Speaker 0: Understood. Are you still treating?
 
-Speaker 1: I am. I’ve had two PT sessions so far and have four more scheduled over the next month.
+Speaker 1: Yes. I've been seeing Dr. Mark Chen for my knee, and I have a follow-up next week.
 
 Speaker 0: Do you have health insurance?
 
-Speaker 1: Yes, Anthem Blue Shield, policy number ABS-4431-57.
+Speaker 1: I do. It's with Kaiser Permanente, policy number KP-1234-5678.
 
 Speaker 0: And did you miss any work because of the incident?
 
-Speaker 1: I missed seven workdays—used up three sick days and four vacation days.
+Speaker 1: Yes, I missed about a week and had to use my vacation days.
 
 Speaker 0: What is your employer's name and your position?
 
-Speaker 1: I’m a graphic designer at Golden Gate Advertising.
+Speaker 1: I'm a software engineer at Tech Innovations Inc.
 
-Speaker 0: Thanks. On a scale of one to ten, what's your pain level today?
+Speaker 0: Thanks. On a scale of one to 10, what's your pain level today?
 
-Speaker 1: Around a five. Walking is still uncomfortable.
+Speaker 1: I'd say it's around a six.
 
-Speaker 0: Got it. We're almost done. May I get the hotel's address if you have it?
+Speaker 0: Got it. We're almost done. May I get the mall's address if you have it?
 
-Speaker 1: Sure. It's 855 Market Street, San Francisco, California 94103.
+Speaker 1: It's 789 Market Street, San Francisco, California 94103.
 
 Speaker 0: Perfect. We'll review your case right away. The next step is to send you a HIPAA release and contingency fee agreement for electronic signature so we can obtain your records and move forward. Does that sound okay?
 
-Speaker 1: Yes, that works for me.
+Speaker 1: Yes, that's fine.
 
 Speaker 0: Great. You'll receive an email with further instructions within the next few minutes. If you have any questions, reply to those messages or call me at the number in your caller ID. Anything else I can help with today?
 
-Speaker 1: No, that's all. Thank you for your help.
+Speaker 1: No, that covers it. Thank you for your help.
 
 Speaker 0: You're welcome, Mr. Wilson. Take care, and we'll be in touch soon.

@@ -1,0 +1,61 @@
+Speaker 0: Good afternoon. Thank you for calling Mira Law Firm. This is Sally. May I have your full name, please?
+
+Speaker 1: Hi. My name is Jessica Johnson.
+
+Speaker 0: Thank you, Ms. Johnson. What's the best phone number to reach you?
+
+Speaker 1: Sure. It's (415) 555-4061.
+
+Speaker 0: And an email address?
+
+Speaker 1: jessica.johnson@gmail.com.
+
+Speaker 0: Great. For verification, could you give me your date of birth?
+
+Speaker 1: April 22nd, 1990.
+
+Speaker 0: Thanks. Now, can you briefly describe what happened that led to your injury?
+
+Speaker 1: On June 03, 2025, I was riding my motorcycle on Market Street when a car ran a red light and hit me. I was thrown off my bike.
+
+Speaker 0: I'm sorry to hear that. What injuries did you sustain?
+
+Speaker 1: I fractured my left arm and had some bruising on my legs and ribs.
+
+Speaker 0: Did you receive medical treatment?
+
+Speaker 1: Yes. I was taken to UCSF Medical Center by ambulance and had surgery on my arm. I'm also seeing a physical therapist.
+
+Speaker 0: Understood. Are you still treating?
+
+Speaker 1: Yes, I have weekly therapy sessions and follow-up appointments with my orthopedic surgeon.
+
+Speaker 0: Do you have health insurance?
+
+Speaker 1: I do. It's with Kaiser Permanente, policy number KP-1234-5678.
+
+Speaker 0: And did you miss any work because of the incident?
+
+Speaker 1: Yes, I've been out of work for three weeks so far.
+
+Speaker 0: What is your employer's name and your position?
+
+Speaker 1: I'm a graphic designer at Creative Solutions.
+
+Speaker 0: Thanks. On a scale of one to 10, what's your pain level today?
+
+Speaker 1: It's about a six today.
+
+Speaker 0: Got it. We're almost done. May I get the location of the accident if you have it?
+
+Speaker 1: It was at the intersection of Market Street and 5th Street in San Francisco.
+
+Speaker 0: Perfect. We'll review your case right away. The next step is to send you a HIPAA release and contingency fee agreement for electronic signature so we can obtain your records and move forward. Does that sound okay?
+
+Speaker 1: Yes, that's fine.
+
+Speaker 0: Great. You'll receive an email with further instructions within the next few minutes. If you have any questions, reply to those messages or call me at the number in your caller ID. Anything else I can help with today?
+
+Speaker 1: No, that covers it. Thank you for your help.
+
+Speaker 0: You're welcome, Ms. Johnson. Take care, and we'll be in touch soon.

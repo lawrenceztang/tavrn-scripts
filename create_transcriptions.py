@@ -172,10 +172,7 @@ Speaker 1: Sounds good. Thanks."""
         """Generate a transcription for a case that should be accepted using OpenAI"""
         client_info = self.generate_personal_info()
         incident_date = (datetime.now() - timedelta(days=random.randint(7, 45))).strftime("%B %d, %Y")
-        prompt = f"""Based on the following example for a law firm intake call that should be ACCEPTED, create a new realistic transcription for a {case_type.replace('_', ' ')} case.
-
-EXAMPLE:
-{self.base_accept_transcription}
+        prompt = f"""Based on an example for a law firm intake call that should be ACCEPTED, create a new realistic transcription for a {case_type.replace('_', ' ')} case.
 
 REQUIREMENTS:
 - Change the client name to: {client_info['full_name']}
@@ -187,18 +184,21 @@ REQUIREMENTS:
 - Make the conversation natural and realistic
 - Keep the same Speaker 0/Speaker 1 format
 
+EXAMPLE:
+{self.base_accept_transcription}
+
 Factors to consider for accepting or declining a case could include potential settlement value, likelihood of a settlement, severity of injuries sustained etc.
 
-Generate only the transcription dialogue for a case which should be ACCEPTED, no additional text."""
-
+Generate only the transcription dialogue for a new case which should be ACCEPTED, no additional text. The intake receiptionist should not specify whether the case should be accepted or not."""
+        print(prompt)
         try:
             response = self.openai_client.chat.completions.create(
-                model="o3",
+                model="gpt-4o",
                 messages=[
                     {"role": "system", "content": "You are an expert at creating realistic law firm intake call transcriptions. Generate only the dialogue in the exact format requested."},
                     {"role": "user", "content": prompt}
                 ],
-                temperature=1
+                temperature=0
             )
             
             return response.choices[0].message.content.strip()
@@ -210,10 +210,7 @@ Generate only the transcription dialogue for a case which should be ACCEPTED, no
         client_info = self.generate_personal_info()
         incident_date = (datetime.now() - timedelta(days=random.randint(60, 800))).strftime("%B %d, %Y")
         
-        prompt = f"""Based on the following example for a law firm intake call that should be DECLINED, create a new realistic transcription for a {case_type.replace('_', ' ')} case.
-
-EXAMPLE:
-{self.base_decline_transcription}
+        prompt = f"""Based on an example for a law firm intake call that should be DECLINED, create a new realistic transcription for a {case_type.replace('_', ' ')} case.
 
 REQUIREMENTS:
 - Change the client name to: {client_info['full_name']}
@@ -225,18 +222,21 @@ REQUIREMENTS:
 - Make the conversation natural and realistic
 - Keep the same Speaker 0/Speaker 1 format
 
+EXAMPLE:
+{self.base_decline_transcription}
+
 Factors to consider for accepting or declining a case could include potential settlement value, likelihood of a settlement, severity of injuries sustained etc.
 
-Generate only the transcription dialogue for a case which should be DECLINED, no additional text."""
+Generate only the transcription dialogue for a new case which should be DECLINED, no additional text. The intake receiptionist should not specify whether the case should be accepted or not."""
 
         try:
             response = self.openai_client.chat.completions.create(
-                model="o3",
+                model="gpt-4o",
                 messages=[
                     {"role": "system", "content": "You are an expert at creating realistic law firm intake call transcriptions. Generate only the dialogue in the exact format requested."},
                     {"role": "user", "content": prompt}
                 ],
-                temperature=1
+                temperature=0
             )
             
             return response.choices[0].message.content.strip()
